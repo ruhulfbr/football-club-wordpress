@@ -1,0 +1,48 @@
+/* 
+    Theme Name: Arambagh krira Shanga
+    Template URI: http://devitems.com/html/suparsport-preview/index.html
+    Description: This theme Created For AramBagh Krira Shanga football Club.,
+    Author: Ruhul Amin
+    Author URI: https://www.facebook.com/ruhulamin.imran
+    Version: 1.0
+  */
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+}
+.fa_css{
+	margin-top: 50%;
+	font-size: 50px;
+}
+.TeamPageUlBorder{
+    border-bottom: 1px dashed #ffc61c;
+}
+.screen-reader-text{
+    display: none;
+}
+.nav-links {
+    display: inline-block;
+    margin: 0;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.page-numbers {
+    display: block;
+    font-size: 14px;
+    background-color: #f1f1f1;
+    width: 32px;
+    height: 32px;
+    border: none;
+    line-height: 32px;
+    color: #444;
+    padding: 0;
+    border-radius: 3px !important;
+    font-weight: 600;
+    float: left;
+    text-align: center;
+    margin-left: 5px;
+}
+.current, .page-numbers:hover{
+     background-color: #ffc61c;
+    color: #ffffff;   
+}
